@@ -9,5 +9,13 @@ package paquete03;
  * @author jdgua
  */
 public class Clase01 {
-    
+
+    public static void main(String[] args) {
+
+    }
+
+    public static String[][] obtenerCadena() {
+String[][] cadena = {{"LOJA","CUECA","QUITO"},{"GUAYAQUIL","ZAMORA","MACHALA"}};
+return cadena;
+    }
 }
